@@ -1,89 +1,111 @@
 [[Xorg_libXau]]
 arch = "aarch64"
-git-tree-sha1 = "a8e2801f7c45fe1b6b1d3e588982e52ec6c9e36f"
+git-tree-sha1 = "16c1d2c75ec4c733646e69a30d6886b627e5afc2"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "65a70012f7c28b161ca303b9e73868e35478ca2de4941039ebb604dc3eb7bda1"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.aarch64-linux-gnu.tar.gz"
+    sha256 = "6a40e0de62eb723ed7135928698ed37671733b95adf1095d9711f6f1ebf0120b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.aarch64-linux-gnu.tar.gz"
 [[Xorg_libXau]]
 arch = "aarch64"
-git-tree-sha1 = "92a698e7756aa6ef358cb8134b97606ac8935750"
+git-tree-sha1 = "d69a22b4beba7874ef8541b54d782ad20745c320"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "caad1a2eb7e21f8d7690e8e5e45b802bc970224f5f3a91dd5ce756e73759e3ae"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.aarch64-linux-musl.tar.gz"
+    sha256 = "01d093a7f0e6ee70981f515dfa4feac5802156aba23e453c775a5c71122e2560"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.aarch64-linux-musl.tar.gz"
 [[Xorg_libXau]]
-arch = "armv7l"
-git-tree-sha1 = "c7bd614ff12a1f1614e350f92f4e4d48cde9b54a"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0de8114ed31738e6aeed616bedaa860027fb1cc9"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "7b3b354c9dd0e5fbbaa40a819b305a3473df4f9cf6e4912799df1ffcc07daf59"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "2aa7632a8ddf2535999feeacdbe95e6a04be8b7ce753f814a608df2220483b9e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.armv6l-linux-gnueabihf.tar.gz"
 [[Xorg_libXau]]
-arch = "armv7l"
-git-tree-sha1 = "024b667522a4a0b38c7f61146a5c2743946f04d8"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a183d8eea113830f0bd7ea569578c6297c4a87de"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "ef26fbcbdd498efa52e2d7d8fdf01c74328b21af991575e0a41898579c1a4ecb"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "96db52990661c6a598eae0ffcd8ef915ce316bd04fda08dd50eba3ff9a2a3a95"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.armv6l-linux-musleabihf.tar.gz"
 [[Xorg_libXau]]
-arch = "i686"
-git-tree-sha1 = "ebea5b4c4ad1be34e1aba4d47bacef8b1198e241"
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "464ef1adf9dad3a5c61cc336724c143a341bd03a"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "d0f0f2850b2efb8863f57ab2476045d313d64d398b9cb791bdb8357f9442685d"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.i686-linux-gnu.tar.gz"
+    sha256 = "a339aea20faf4e3e4a527b195fc03ad5c2c808eee1a62d16db08d7dd4ae6636a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.armv7l-linux-gnueabihf.tar.gz"
 [[Xorg_libXau]]
-arch = "i686"
-git-tree-sha1 = "2df0600b256673a603404555be551480d029f816"
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a74de850498e5488c31d77eb6bc1c944d923fde3"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "bc1b58bfded267c6cc198679213ff3707fbc8a00e84de2a343f7ba7eae568ad0"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.i686-linux-musl.tar.gz"
+    sha256 = "26eeb8b029fddc33ecc7dcff86855dd311cc4e0cf1a562d41e65a88eb0c0d232"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.armv7l-linux-musleabihf.tar.gz"
+[[Xorg_libXau]]
+arch = "i686"
+git-tree-sha1 = "195ff3a68fa214ebed47f7e6eb1e4f4f129468cb"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXau.download]]
+    sha256 = "99aa897cee6c079de3d9159b4c3d19912e1f2f2185e56ed3632ed33c048bce7b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.i686-linux-gnu.tar.gz"
+[[Xorg_libXau]]
+arch = "i686"
+git-tree-sha1 = "5f15972d8c418553afeba03a1579d469f98efa1d"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXau.download]]
+    sha256 = "6a644507bb0f3fa28f0118c39bf2c457052bfdcfab0c994a93249e384239914a"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.i686-linux-musl.tar.gz"
 [[Xorg_libXau]]
 arch = "powerpc64le"
-git-tree-sha1 = "0e319ed9441181908178177f615830a7f8813c05"
+git-tree-sha1 = "34094bf543e79fbc9b81826e1d6e64dce29d49ef"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "2b49e6fc6e947f4e453ba3b71ddc5c113c1e1ca452fdd6e17c1c3941d6a90f0e"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "a27a2ec1ea69975479df11de9851295c75b46c502ffebf7f878462f74a232ff7"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.powerpc64le-linux-gnu.tar.gz"
 [[Xorg_libXau]]
 arch = "x86_64"
-git-tree-sha1 = "4487a7356408c3a92924e56f9d3891724855282c"
+git-tree-sha1 = "bd965e3c7f9460155f06361da380c63fa0351ef6"
 libc = "glibc"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "763b24fb4a12e0a7d22b3a8f2f90f72e35b37c90771d1dcdad0d2d1e69f36e71"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.x86_64-linux-gnu.tar.gz"
+    sha256 = "4c19ce0389a27b393c21ea8ad91529c566cf2439b4bfc511c5235d9da541994b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.x86_64-linux-gnu.tar.gz"
 [[Xorg_libXau]]
 arch = "x86_64"
-git-tree-sha1 = "bd5ec41f0a5abf67a0da3e6b953baaa458efadff"
+git-tree-sha1 = "6052d08f58fcf07e96c319d16da5afe170f61105"
 libc = "musl"
 os = "linux"
 
     [[Xorg_libXau.download]]
-    sha256 = "f326657c262fe3b8ecf782918ee73b44c0c163e5076ab2ead46ae012cc14adad"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.x86_64-linux-musl.tar.gz"
+    sha256 = "fa2c5ddccd0ce2ab5fff23bcafc0bfb9f3b984ecec12e8a78161975ec5948a90"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.x86_64-linux-musl.tar.gz"
 [[Xorg_libXau]]
 arch = "x86_64"
-git-tree-sha1 = "3f5913f8a6741096f5cc8db6ea7f6a9d54db868f"
+git-tree-sha1 = "f3aeba848cbaddc53748edac74b0e226dc0d1c1b"
 os = "freebsd"
 
     [[Xorg_libXau.download]]
-    sha256 = "a0781cb2832a838d7b6eb8e8fa7db0f31025c09aa2e7d9aec0da3a575644b29c"
-    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.9+3/Xorg_libXau.v1.0.9.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "477842a4dace7dff52dc7670575532a7db8c3efb5c647b6f5c7aaeb7e75eb9e5"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXau_jll.jl/releases/download/Xorg_libXau-v1.0.11+0/Xorg_libXau.v1.0.11.x86_64-unknown-freebsd.tar.gz"
